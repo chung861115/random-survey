@@ -8,6 +8,6 @@
 
 
 const urls = [
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://docs.google.com/forms/d/e/1FAIpQLSeRo_AmMss1rn-umpGb-Z5_8VrQfQFcorShhp43-JcRnG6Etw/formResponse',
+	'https://www.surveycake.com/s/Eb895'
 ];
